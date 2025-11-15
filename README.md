@@ -3,7 +3,7 @@
 </div>
 
 
-# 🙋 2025.2  - Módulo 07: Sistema de Manutenção Preditiva com IA - Turma 12  - Itubombas
+# 🙋 2025.3  - Módulo 07: Sistema de Manutenção Preditiva com IA - Turma 12  - Itubombas
 
 
 ## 🎯 O objetivo:
