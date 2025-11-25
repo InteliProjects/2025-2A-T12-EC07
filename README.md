@@ -14,6 +14,8 @@
   - https://github.com/InteliProjects/2025-2A-T12-EC07-G01 
 - Grupo 2 - 
   - https://github.com/InteliProjects/2025-2A-T12-EC07-G02
+- Grupo 3 -
+  - https://github.com/InteliProjects/2025-2A-T12-EC07-G03
 - Grupo 4 -
    - https://github.com/InteliProjects/2025-2A-T12-EC07-G04
 - Grupo 5 -
