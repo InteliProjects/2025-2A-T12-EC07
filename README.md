@@ -8,6 +8,8 @@
 
 ## 🎯 O objetivo:
 
+Inteligência artificial para predição de falhas na operação de motobombas da empresa.
+
 ## 💻 Projetos Desenvolvidos: 
 
 - Grupo 1 - 
